@@ -66,6 +66,7 @@ const Login = () => {
           {buttonDisable ? "Please fill all the fields" : "Login"}
         </button>
         <Link href="/signup">Signup</Link>
+        <Link href="/forgotpassword">Forgot Password</Link>
       </div>
     </div>
   );
